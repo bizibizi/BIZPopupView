@@ -5,7 +5,7 @@
 ![alt tag](https://github.com/bizibizi/BIZPopupView/blob/master/presentation.gif)
 
 
-BIZPopupView is a custom popup as ContentView of that can be used any content of UIViewController. 
+BIZPopupView is a custom popup as ContentView of that can be used any content of UIViewController. Can be used as custom alert.
 
 
 # Installation
