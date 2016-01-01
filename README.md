@@ -5,7 +5,7 @@
 ![alt tag](https://github.com/bizibizi/BIZPopupView/blob/master/presentation.gif)
 
 
-BIZPopupView is a custom popup as ContentView of that can be used any content of UIViewController. Can be used as custom alert.
+BIZPopupView is a custom popup as ContentView of that can be used any content of any UIViewController. Can be used as custom alert.
 
 
 # Installation
@@ -19,7 +19,7 @@ BIZPopupView is a custom popup as ContentView of that can be used any content of
 - ```#import "BIZPopupViewController.h"``` 
 - create custom UIViewController that will be used as ContentView for popup
 ![alt tag](https://github.com/bizibizi/BIZPopupView/blob/master/example1.png)
-- present popup
+- create and present popup
 ```objective-c
     UIStoryboard *storyboard = [UIStoryboard storyboardWithName:@"Main" bundle:nil];
     UIViewController *smallViewController = [storyboard instantiateViewControllerWithIdentifier:@"bigViewController"];
