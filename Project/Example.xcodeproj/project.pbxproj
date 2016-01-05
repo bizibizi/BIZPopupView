@@ -13,14 +13,14 @@
 		7E2237061C219941008DB11A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7E2237041C219941008DB11A /* Main.storyboard */; };
 		7E2237081C219941008DB11A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7E2237071C219941008DB11A /* Assets.xcassets */; };
 		7E22370B1C219941008DB11A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7E2237091C219941008DB11A /* LaunchScreen.storyboard */; };
-		7EC764751C2748C700E29E63 /* k-popup-dismiss-button@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7EC764651C2748C700E29E63 /* k-popup-dismiss-button@2x.png */; settings = {ASSET_TAGS = (); }; };
-		7EC764761C2748C700E29E63 /* k-popup-dismiss-button@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7EC764661C2748C700E29E63 /* k-popup-dismiss-button@3x.png */; settings = {ASSET_TAGS = (); }; };
-		7EC764771C2748C700E29E63 /* BIZPopupViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EC764681C2748C700E29E63 /* BIZPopupViewController.m */; settings = {ASSET_TAGS = (); }; };
-		7EC764781C2748C700E29E63 /* TPKeyboardAvoidingCollectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EC7646C1C2748C700E29E63 /* TPKeyboardAvoidingCollectionView.m */; settings = {ASSET_TAGS = (); }; };
-		7EC764791C2748C700E29E63 /* TPKeyboardAvoidingScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EC7646E1C2748C700E29E63 /* TPKeyboardAvoidingScrollView.m */; settings = {ASSET_TAGS = (); }; };
-		7EC7647A1C2748C700E29E63 /* TPKeyboardAvoidingTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EC764701C2748C700E29E63 /* TPKeyboardAvoidingTableView.m */; settings = {ASSET_TAGS = (); }; };
-		7EC7647B1C2748C700E29E63 /* UIScrollView+TPKeyboardAvoidingAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EC764721C2748C700E29E63 /* UIScrollView+TPKeyboardAvoidingAdditions.m */; settings = {ASSET_TAGS = (); }; };
-		7EC7647C1C2748C700E29E63 /* UIViewController+BIZChildViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EC764741C2748C700E29E63 /* UIViewController+BIZChildViewController.m */; settings = {ASSET_TAGS = (); }; };
+		7EAE9A4C1C3B62FE003BAE5C /* TPKeyboardAvoidingCollectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EAE9A451C3B62FE003BAE5C /* TPKeyboardAvoidingCollectionView.m */; settings = {ASSET_TAGS = (); }; };
+		7EAE9A4D1C3B62FE003BAE5C /* TPKeyboardAvoidingScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EAE9A471C3B62FE003BAE5C /* TPKeyboardAvoidingScrollView.m */; settings = {ASSET_TAGS = (); }; };
+		7EAE9A4E1C3B62FE003BAE5C /* TPKeyboardAvoidingTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EAE9A491C3B62FE003BAE5C /* TPKeyboardAvoidingTableView.m */; settings = {ASSET_TAGS = (); }; };
+		7EAE9A4F1C3B62FE003BAE5C /* UIScrollView+TPKeyboardAvoidingAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EAE9A4B1C3B62FE003BAE5C /* UIScrollView+TPKeyboardAvoidingAdditions.m */; settings = {ASSET_TAGS = (); }; };
+		7EAE9A591C3B6306003BAE5C /* BIZPopupViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EAE9A521C3B6306003BAE5C /* BIZPopupViewController.m */; settings = {ASSET_TAGS = (); }; };
+		7EAE9A5A1C3B6306003BAE5C /* UIViewController+BIZChildViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EAE9A551C3B6306003BAE5C /* UIViewController+BIZChildViewController.m */; settings = {ASSET_TAGS = (); }; };
+		7EAE9A5B1C3B6306003BAE5C /* k-popup-dismiss-button@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7EAE9A571C3B6306003BAE5C /* k-popup-dismiss-button@2x.png */; settings = {ASSET_TAGS = (); }; };
+		7EAE9A5C1C3B6306003BAE5C /* k-popup-dismiss-button@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7EAE9A581C3B6306003BAE5C /* k-popup-dismiss-button@3x.png */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,21 +34,21 @@
 		7E2237071C219941008DB11A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7E22370A1C219941008DB11A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7E22370C1C219941008DB11A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7EC764651C2748C700E29E63 /* k-popup-dismiss-button@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "k-popup-dismiss-button@2x.png"; sourceTree = "<group>"; };
-		7EC764661C2748C700E29E63 /* k-popup-dismiss-button@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "k-popup-dismiss-button@3x.png"; sourceTree = "<group>"; };
-		7EC764671C2748C700E29E63 /* BIZPopupViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BIZPopupViewController.h; sourceTree = "<group>"; };
-		7EC764681C2748C700E29E63 /* BIZPopupViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BIZPopupViewController.m; sourceTree = "<group>"; };
-		7EC764691C2748C700E29E63 /* BIZPopupViewControllerDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BIZPopupViewControllerDelegate.h; sourceTree = "<group>"; };
-		7EC7646B1C2748C700E29E63 /* TPKeyboardAvoidingCollectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TPKeyboardAvoidingCollectionView.h; sourceTree = "<group>"; };
-		7EC7646C1C2748C700E29E63 /* TPKeyboardAvoidingCollectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TPKeyboardAvoidingCollectionView.m; sourceTree = "<group>"; };
-		7EC7646D1C2748C700E29E63 /* TPKeyboardAvoidingScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TPKeyboardAvoidingScrollView.h; sourceTree = "<group>"; };
-		7EC7646E1C2748C700E29E63 /* TPKeyboardAvoidingScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TPKeyboardAvoidingScrollView.m; sourceTree = "<group>"; };
-		7EC7646F1C2748C700E29E63 /* TPKeyboardAvoidingTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TPKeyboardAvoidingTableView.h; sourceTree = "<group>"; };
-		7EC764701C2748C700E29E63 /* TPKeyboardAvoidingTableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TPKeyboardAvoidingTableView.m; sourceTree = "<group>"; };
-		7EC764711C2748C700E29E63 /* UIScrollView+TPKeyboardAvoidingAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIScrollView+TPKeyboardAvoidingAdditions.h"; sourceTree = "<group>"; };
-		7EC764721C2748C700E29E63 /* UIScrollView+TPKeyboardAvoidingAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIScrollView+TPKeyboardAvoidingAdditions.m"; sourceTree = "<group>"; };
-		7EC764731C2748C700E29E63 /* UIViewController+BIZChildViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+BIZChildViewController.h"; sourceTree = "<group>"; };
-		7EC764741C2748C700E29E63 /* UIViewController+BIZChildViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+BIZChildViewController.m"; sourceTree = "<group>"; };
+		7EAE9A441C3B62FE003BAE5C /* TPKeyboardAvoidingCollectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TPKeyboardAvoidingCollectionView.h; sourceTree = "<group>"; };
+		7EAE9A451C3B62FE003BAE5C /* TPKeyboardAvoidingCollectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TPKeyboardAvoidingCollectionView.m; sourceTree = "<group>"; };
+		7EAE9A461C3B62FE003BAE5C /* TPKeyboardAvoidingScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TPKeyboardAvoidingScrollView.h; sourceTree = "<group>"; };
+		7EAE9A471C3B62FE003BAE5C /* TPKeyboardAvoidingScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TPKeyboardAvoidingScrollView.m; sourceTree = "<group>"; };
+		7EAE9A481C3B62FE003BAE5C /* TPKeyboardAvoidingTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TPKeyboardAvoidingTableView.h; sourceTree = "<group>"; };
+		7EAE9A491C3B62FE003BAE5C /* TPKeyboardAvoidingTableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TPKeyboardAvoidingTableView.m; sourceTree = "<group>"; };
+		7EAE9A4A1C3B62FE003BAE5C /* UIScrollView+TPKeyboardAvoidingAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIScrollView+TPKeyboardAvoidingAdditions.h"; sourceTree = "<group>"; };
+		7EAE9A4B1C3B62FE003BAE5C /* UIScrollView+TPKeyboardAvoidingAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIScrollView+TPKeyboardAvoidingAdditions.m"; sourceTree = "<group>"; };
+		7EAE9A511C3B6306003BAE5C /* BIZPopupViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BIZPopupViewController.h; sourceTree = "<group>"; };
+		7EAE9A521C3B6306003BAE5C /* BIZPopupViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BIZPopupViewController.m; sourceTree = "<group>"; };
+		7EAE9A531C3B6306003BAE5C /* BIZPopupViewControllerDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BIZPopupViewControllerDelegate.h; sourceTree = "<group>"; };
+		7EAE9A541C3B6306003BAE5C /* UIViewController+BIZChildViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+BIZChildViewController.h"; sourceTree = "<group>"; };
+		7EAE9A551C3B6306003BAE5C /* UIViewController+BIZChildViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+BIZChildViewController.m"; sourceTree = "<group>"; };
+		7EAE9A571C3B6306003BAE5C /* k-popup-dismiss-button@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "k-popup-dismiss-button@2x.png"; sourceTree = "<group>"; };
+		7EAE9A581C3B6306003BAE5C /* k-popup-dismiss-button@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "k-popup-dismiss-button@3x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +65,8 @@
 		7E2236EF1C219941008DB11A = {
 			isa = PBXGroup;
 			children = (
-				7EC764631C2748C700E29E63 /* BIZPopupView */,
+				7EAE9A501C3B6306003BAE5C /* Classes */,
+				7EAE9A561C3B6306003BAE5C /* Resources */,
 				7E2236FA1C219941008DB11A /* Example */,
 				7E2236F91C219941008DB11A /* Products */,
 			);
@@ -93,6 +94,7 @@
 		7E2236FB1C219941008DB11A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				7EAE9A431C3B62FE003BAE5C /* TPKeyboardAvoiding */,
 				7E2236FE1C219941008DB11A /* AppDelegate.h */,
 				7E2236FF1C219941008DB11A /* AppDelegate.m */,
 				7E2237071C219941008DB11A /* Assets.xcassets */,
@@ -103,43 +105,42 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		7EC764631C2748C700E29E63 /* BIZPopupView */ = {
+		7EAE9A431C3B62FE003BAE5C /* TPKeyboardAvoiding */ = {
 			isa = PBXGroup;
 			children = (
-				7EC764641C2748C700E29E63 /* images */,
-				7EC764671C2748C700E29E63 /* BIZPopupViewController.h */,
-				7EC764681C2748C700E29E63 /* BIZPopupViewController.m */,
-				7EC764691C2748C700E29E63 /* BIZPopupViewControllerDelegate.h */,
-				7EC7646A1C2748C700E29E63 /* TPKeyboardAvoiding */,
-				7EC764731C2748C700E29E63 /* UIViewController+BIZChildViewController.h */,
-				7EC764741C2748C700E29E63 /* UIViewController+BIZChildViewController.m */,
-			);
-			name = BIZPopupView;
-			path = ../BIZPopupView;
-			sourceTree = "<group>";
-		};
-		7EC764641C2748C700E29E63 /* images */ = {
-			isa = PBXGroup;
-			children = (
-				7EC764651C2748C700E29E63 /* k-popup-dismiss-button@2x.png */,
-				7EC764661C2748C700E29E63 /* k-popup-dismiss-button@3x.png */,
-			);
-			path = images;
-			sourceTree = "<group>";
-		};
-		7EC7646A1C2748C700E29E63 /* TPKeyboardAvoiding */ = {
-			isa = PBXGroup;
-			children = (
-				7EC7646B1C2748C700E29E63 /* TPKeyboardAvoidingCollectionView.h */,
-				7EC7646C1C2748C700E29E63 /* TPKeyboardAvoidingCollectionView.m */,
-				7EC7646D1C2748C700E29E63 /* TPKeyboardAvoidingScrollView.h */,
-				7EC7646E1C2748C700E29E63 /* TPKeyboardAvoidingScrollView.m */,
-				7EC7646F1C2748C700E29E63 /* TPKeyboardAvoidingTableView.h */,
-				7EC764701C2748C700E29E63 /* TPKeyboardAvoidingTableView.m */,
-				7EC764711C2748C700E29E63 /* UIScrollView+TPKeyboardAvoidingAdditions.h */,
-				7EC764721C2748C700E29E63 /* UIScrollView+TPKeyboardAvoidingAdditions.m */,
+				7EAE9A441C3B62FE003BAE5C /* TPKeyboardAvoidingCollectionView.h */,
+				7EAE9A451C3B62FE003BAE5C /* TPKeyboardAvoidingCollectionView.m */,
+				7EAE9A461C3B62FE003BAE5C /* TPKeyboardAvoidingScrollView.h */,
+				7EAE9A471C3B62FE003BAE5C /* TPKeyboardAvoidingScrollView.m */,
+				7EAE9A481C3B62FE003BAE5C /* TPKeyboardAvoidingTableView.h */,
+				7EAE9A491C3B62FE003BAE5C /* TPKeyboardAvoidingTableView.m */,
+				7EAE9A4A1C3B62FE003BAE5C /* UIScrollView+TPKeyboardAvoidingAdditions.h */,
+				7EAE9A4B1C3B62FE003BAE5C /* UIScrollView+TPKeyboardAvoidingAdditions.m */,
 			);
 			path = TPKeyboardAvoiding;
+			sourceTree = "<group>";
+		};
+		7EAE9A501C3B6306003BAE5C /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				7EAE9A511C3B6306003BAE5C /* BIZPopupViewController.h */,
+				7EAE9A521C3B6306003BAE5C /* BIZPopupViewController.m */,
+				7EAE9A531C3B6306003BAE5C /* BIZPopupViewControllerDelegate.h */,
+				7EAE9A541C3B6306003BAE5C /* UIViewController+BIZChildViewController.h */,
+				7EAE9A551C3B6306003BAE5C /* UIViewController+BIZChildViewController.m */,
+			);
+			name = Classes;
+			path = ../Classes;
+			sourceTree = "<group>";
+		};
+		7EAE9A561C3B6306003BAE5C /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				7EAE9A571C3B6306003BAE5C /* k-popup-dismiss-button@2x.png */,
+				7EAE9A581C3B6306003BAE5C /* k-popup-dismiss-button@3x.png */,
+			);
+			name = Resources;
+			path = ../Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -199,9 +200,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7EC764751C2748C700E29E63 /* k-popup-dismiss-button@2x.png in Resources */,
+				7EAE9A5B1C3B6306003BAE5C /* k-popup-dismiss-button@2x.png in Resources */,
 				7E22370B1C219941008DB11A /* LaunchScreen.storyboard in Resources */,
-				7EC764761C2748C700E29E63 /* k-popup-dismiss-button@3x.png in Resources */,
+				7EAE9A5C1C3B6306003BAE5C /* k-popup-dismiss-button@3x.png in Resources */,
 				7E2237081C219941008DB11A /* Assets.xcassets in Resources */,
 				7E2237061C219941008DB11A /* Main.storyboard in Resources */,
 			);
@@ -214,15 +215,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7EC764781C2748C700E29E63 /* TPKeyboardAvoidingCollectionView.m in Sources */,
 				7E2237031C219941008DB11A /* ViewController.m in Sources */,
-				7EC7647A1C2748C700E29E63 /* TPKeyboardAvoidingTableView.m in Sources */,
-				7EC7647C1C2748C700E29E63 /* UIViewController+BIZChildViewController.m in Sources */,
+				7EAE9A4D1C3B62FE003BAE5C /* TPKeyboardAvoidingScrollView.m in Sources */,
 				7E2237001C219941008DB11A /* AppDelegate.m in Sources */,
-				7EC764791C2748C700E29E63 /* TPKeyboardAvoidingScrollView.m in Sources */,
-				7EC7647B1C2748C700E29E63 /* UIScrollView+TPKeyboardAvoidingAdditions.m in Sources */,
+				7EAE9A5A1C3B6306003BAE5C /* UIViewController+BIZChildViewController.m in Sources */,
+				7EAE9A591C3B6306003BAE5C /* BIZPopupViewController.m in Sources */,
+				7EAE9A4F1C3B62FE003BAE5C /* UIScrollView+TPKeyboardAvoidingAdditions.m in Sources */,
+				7EAE9A4E1C3B62FE003BAE5C /* TPKeyboardAvoidingTableView.m in Sources */,
+				7EAE9A4C1C3B62FE003BAE5C /* TPKeyboardAvoidingCollectionView.m in Sources */,
 				7E2236FD1C219941008DB11A /* main.m in Sources */,
-				7EC764771C2748C700E29E63 /* BIZPopupViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
