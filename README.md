@@ -11,7 +11,12 @@ BIZPopupView is a custom popup as ContentView of that can be used any content of
 # Installation
 
 ### Manually
-- Copy BIZPopupView folder to your project 
+- Copy ```Classes``` and ```Resources``` folders to your project 
+
+### From CocoaPods:
+```objective-c
+pod 'BIZPopupView' 
+```
 
 
 # Usage
