@@ -78,7 +78,11 @@
         _showDismissButton = YES;
         _enableBackgroundFade = YES;
         
-        [self loadViewIfNeeded];
+        if ([self respondsToSelector:@selector(loadViewIfNeeded)])
+          [self loadViewIfNeeded];
+        else {
+          UIView *view = self.view;
+        }
         
         [self createDismissButton];
         
